@@ -7,5 +7,5 @@ Route::get('/', function () {
 });
 
 Route::get('/pagina', function () {
-    return view('pagina');
-})->name('pagina');
+    return view(' pagina ');
+})->name(' pagina ');
